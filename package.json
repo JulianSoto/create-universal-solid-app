@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JulianSoto/create-universal-solid-app/issues"
   },
-  "homepage": "https://github.com/JulianSoto/create-universal-solid-app#readme"
+  "homepage": "https://github.com/JulianSoto/create-universal-solid-app#readme",
+  "dependencies": {
+    "sanitize-filename": "^1.6.3"
+  }
 }
