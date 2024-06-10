@@ -1,6 +1,6 @@
 {
   "name": "create-universal-solid-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimal universal solid.js app initializer",
   "main": "index.mjs",
   "scripts": {
