@@ -1,7 +1,7 @@
 import { Title } from '@solidjs/meta';
 import { css } from 'solid-styled-components';
 import solidLogo from './assets/universal-solid-app.svg';
-// import npmLogo from './assets/npm.svg';
+import npmLogo from './assets/npm.svg';
 import githubLogo from './assets/github.svg';
 
 const Home = () => {
@@ -43,11 +43,12 @@ const Home = () => {
           }
         `}
       >
-        {/*
-        <a href="">
-          <img alt="NPM logo" height={28} src={npmLogo} />
+        <a
+          href="https://www.npmjs.com/package/create-universal-solid-app"
+          target="_blank"
+        >
+          <img alt="NPM logo" height={27} src={npmLogo} />
         </a>
-        */}
         <a
           href="https://github.com/JulianSoto/create-universal-solid-app"
           target="_blank"
