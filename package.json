@@ -2,11 +2,11 @@
   "name": "create-universal-solid-app",
   "version": "0.0.2",
   "description": "Minimal universal solid.js app initializer",
-  "main": "index.mjs",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "node index.mjs",
+  "bin": "node index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JulianSoto/create-universal-solid-app.git"
